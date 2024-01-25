@@ -59,4 +59,4 @@ SUMMARY: AddressSanitizer: SEGV /mnt/c/Users/Orrr/Desktop/Fuzz/yasm-master/yasm-
 ~~~
 
 #### POC:
-<>
+<https://github.com/OraclePi/fuzzing/blob/main/yasm/expand_mmac_params/input/id%EF%80%BA000000%2Csig%EF%80%BA11%2Csrc%EF%80%BA004450%2Ctime%EF%80%BA17949411%2Cexecs%EF%80%BA1756333%2Cop%EF%80%BAhavoc%2Crep%EF%80%BA14>
