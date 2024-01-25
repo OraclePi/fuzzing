@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "libde265/Heap-buffer-overflow with ASAN in dec265.md",
+                "file": "yasm/expand_mmac_params/SEGV in expand_mmac_params.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "libde265/Heap-buffer-overflow with ASAN in dec265.md",
+                "file": "yasm/expand_mmac_params/SEGV in expand_mmac_params.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "libde265/Heap-buffer-overflow with ASAN in dec265.md",
+                "file": "yasm/expand_mmac_params/SEGV in expand_mmac_params.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "libde265/Heap-buffer-overflow with ASAN in dec265.md"
+                "file": "yasm/expand_mmac_params/SEGV in expand_mmac_params.md"
               }
             }
           }
@@ -146,8 +146,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "300292f45364a4fc",
+  "active": "4f6a5cd140732023",
   "lastOpenFiles": [
+    "yasm/expand_mmac_params",
+    "yasm/expand_mmac_params/input",
+    "libde265/Heap-buffer-overflow with ASAN in dec265.md",
+    "yasm/expand_mmac_params/SEGV in expand_mmac_params.md",
+    "yasm",
+    "AudioFile",
+    "新建文件夹",
     "README.md",
     "fuzzing/README.md",
     "fuzzing",
