@@ -101,4 +101,4 @@ Shadow byte legend (one shadow byte represents 8 application bytes):
 ~~~
 
 #### POC:
-<>
+<https://github.com/OraclePi/fuzzing/blob/main/yasm/expr_traverse_nodes_post/input/id_000000%2Csig_06%2Csrc_005623%2Ctime_11506018%2Cexecs_3448900%2Cop_havoc%2Crep_1>
