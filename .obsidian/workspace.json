@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "yasm/expr_traverse_nodes_post/in expr_traverse_nodes_post.md",
+                "file": "easyexif/SEGV on unknown address caused by a READ memory access/parseEXIFSubIFD@exif_cpp_910.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "yasm/expr_traverse_nodes_post/in expr_traverse_nodes_post.md",
+                "file": "easyexif/SEGV on unknown address caused by a READ memory access/parseEXIFSubIFD@exif_cpp_910.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "yasm/expr_traverse_nodes_post/in expr_traverse_nodes_post.md",
+                "file": "easyexif/SEGV on unknown address caused by a READ memory access/parseEXIFSubIFD@exif_cpp_910.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "yasm/expr_traverse_nodes_post/in expr_traverse_nodes_post.md"
+                "file": "easyexif/SEGV on unknown address caused by a READ memory access/parseEXIFSubIFD@exif_cpp_910.md"
               }
             }
           }
@@ -148,21 +148,23 @@
   },
   "active": "300292f45364a4fc",
   "lastOpenFiles": [
-    "yasm/expr_traverse_nodes_post/input/id_000000,sig_06,src_005623,time_11506018,execs_3448900,op_havoc,rep_1",
-    "yasm/expand_mmac_params/SEGV in expand_mmac_params.md",
+    "easyexif/SEGV on unknown address caused by a READ memory access/input/poc.zip",
+    "easyexif/SEGV on unknown address caused by a READ memory access/input",
+    "easyexif/SEGV on unknown address caused by a READ memory access/新建文件夹",
+    "easyexif/SEGV on unknown address caused by a READ memory access/crash14.jpg",
+    "easyexif/SEGV on unknown address caused by a READ memory access/demo",
+    "easyexif/SEGV on unknown address caused by a READ memory access/poc.zip",
     "yasm/expr_traverse_nodes_post/in expr_traverse_nodes_post.md",
+    "yasm/expand_mmac_params/SEGV in expand_mmac_params.md",
+    "libde265/Heap-buffer-overflow with ASAN in dec265.md",
+    "easyexif/SEGV on unknown address caused by a READ memory access/parseEXIFSubIFD@exif_cpp_910.md",
+    "yasm/expr_traverse_nodes_post/input/id_000000,sig_06,src_005623,time_11506018,execs_3448900,op_havoc,rep_1",
     "yasm/expr_traverse_nodes_post/input",
     "yasm/expr_traverse_nodes_post",
     "yasm/expand_mmac_params/input/id000000,sig11,src004450,time17949411,execs1756333,ophavoc,rep14",
     "yasm/expand_mmac_params",
     "yasm/expand_mmac_params/input",
-    "libde265/Heap-buffer-overflow with ASAN in dec265.md",
-    "yasm",
-    "AudioFile",
-    "新建文件夹",
     "README.md",
-    "fuzzing/README.md",
-    "fuzzing",
-    "libde265/input/poc.in"
+    "fuzzing/README.md"
   ]
 }
