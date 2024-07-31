@@ -33,7 +33,7 @@ Ubuntu 22.04.4 LTS
 
 To reproduce this :
 
-![](input/poc.zip)
+poc: https://github.com/OraclePi/fuzzing/blob/main/easyexif/SEGV%20on%20unknown%20address%20caused%20by%20a%20READ%20memory%20access/input/poc.zip
 
 makefile:
 ```makefile
