@@ -33,7 +33,7 @@ Ubuntu 22.04.4 LTS
 
 To reproduce this :
 
-![[poc.zip]]
+![](input/poc.zip)
 
 makefile:
 ```makefile
